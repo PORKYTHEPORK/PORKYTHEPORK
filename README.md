@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PORKYTHEPORK
+- 👀 I’m interested in coding obv, and volleyball.
+- 🌱 I’m currently learning python
